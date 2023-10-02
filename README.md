@@ -2,6 +2,8 @@
 
 Ce projet contient la réalisation de notre équipe dans l'ECUE Application d'Innovation de l'UE Innovations et recherche pour la societe numerique. 
 
+![App Screenshot](architecture.png)
+
 ## Membres de l'équipe :
 
 1- Abdoulaye SAYOUTI SOULEYMANE (M2 IA)
